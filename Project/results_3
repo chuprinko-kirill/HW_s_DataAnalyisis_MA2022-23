@@ -1,0 +1,1084 @@
+#
+# Results on Sunday December 11 2022 12:19:29 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 YaBrowser/22.11.2.807 Yowser/2.5 Safari/537.36
+# Design number was non-random = 1
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,Form,1,0,intro,NULL,age,25
+1670761169,2e580d3ff5ce615cfab3af7011ada088,Form,1,0,intro,NULL,consent,yes
+1670761169,2e580d3ff5ce615cfab3af7011ada088,Form,1,0,intro,NULL,sex,male
+1670761169,2e580d3ff5ce615cfab3af7011ada088,Form,1,0,intro,NULL,education,linguist
+1670761169,2e580d3ff5ce615cfab3af7011ada088,Form,1,0,intro,NULL,_REACTION_TIME_,10962
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. Newline?
+# 12. Sentence (or sentence MD5).
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,3,1,Training1,NULL,1,У,355,False,У соседей бердо грохотало каждые две минуты.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,3,1,Training1,NULL,2,соседей,499,False,У соседей бердо грохотало каждые две минуты.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,3,1,Training1,NULL,3,бердо,330,False,У соседей бердо грохотало каждые две минуты.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,3,1,Training1,NULL,4,грохотало,440,False,У соседей бердо грохотало каждые две минуты.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,3,1,Training1,NULL,5,каждые,424,False,У соседей бердо грохотало каждые две минуты.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,3,1,Training1,NULL,6,две,370,False,У соседей бердо грохотало каждые две минуты.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,3,1,Training1,NULL,7,минуты.,362,False,У соседей бердо грохотало каждые две минуты.
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Word number.
+#     Col. 9: Word.
+#     Col. 10: Reading time.
+#     Col. 11: Newline?
+#     Col. 12: Sentence (or sentence MD5).
+1670761169,2e580d3ff5ce615cfab3af7011ada088,Question,3,2,Training1,NULL,Что такое бердо?,гребень,1,1460
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,4,1,Training2,NULL,1,Долгое,397,False,Долгое время комбуча стояла на витрине магазина.
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. Newline?
+# 12. Sentence (or sentence MD5).
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,4,1,Training2,NULL,2,время,322,False,Долгое время комбуча стояла на витрине магазина.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,4,1,Training2,NULL,3,комбуча,459,False,Долгое время комбуча стояла на витрине магазина.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,4,1,Training2,NULL,4,стояла,377,False,Долгое время комбуча стояла на витрине магазина.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,4,1,Training2,NULL,5,на,370,False,Долгое время комбуча стояла на витрине магазина.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,4,1,Training2,NULL,6,витрине,507,False,Долгое время комбуча стояла на витрине магазина.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,4,1,Training2,NULL,7,магазина.,437,False,Долгое время комбуча стояла на витрине магазина.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,5,1,Training3,NULL,1,От,278,False,От испуга мастихин выпал из ослабевшей руки.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,5,1,Training3,NULL,2,испуга,273,False,От испуга мастихин выпал из ослабевшей руки.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,5,1,Training3,NULL,3,мастихин,296,False,От испуга мастихин выпал из ослабевшей руки.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,5,1,Training3,NULL,4,выпал,468,False,От испуга мастихин выпал из ослабевшей руки.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,5,1,Training3,NULL,5,из,386,False,От испуга мастихин выпал из ослабевшей руки.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,5,1,Training3,NULL,6,ослабевшей,375,False,От испуга мастихин выпал из ослабевшей руки.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,5,1,Training3,NULL,7,руки.,563,False,От испуга мастихин выпал из ослабевшей руки.
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Word number.
+#     Col. 9: Word.
+#     Col. 10: Reading time.
+#     Col. 11: Newline?
+#     Col. 12: Sentence (or sentence MD5).
+1670761169,2e580d3ff5ce615cfab3af7011ada088,Question,5,2,Training3,NULL,Откуда выпал мастихин?,из руки,1,1623
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,7,1,Cjf_hn_vn,NULL,1,Довольно,318,False,Довольно долго гешадь натирало спину старому пони.
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. Newline?
+# 12. Sentence (or sentence MD5).
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,7,1,Cjf_hn_vn,NULL,2,долго,326,False,Довольно долго гешадь натирало спину старому пони.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,7,1,Cjf_hn_vn,NULL,3,гешадь,337,False,Довольно долго гешадь натирало спину старому пони.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,7,1,Cjf_hn_vn,NULL,4,натирало,781,False,Довольно долго гешадь натирало спину старому пони.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,7,1,Cjf_hn_vn,NULL,5,спину,483,False,Довольно долго гешадь натирало спину старому пони.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,7,1,Cjf_hn_vn,NULL,6,старому,806,False,Довольно долго гешадь натирало спину старому пони.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,7,1,Cjf_hn_vn,NULL,7,пони.,2679,False,Довольно долго гешадь натирало спину старому пони.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,8,1,E_hm_vf,NULL,1,В,372,False,В Италии флине разграбила крупный центр торговли.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,8,1,E_hm_vf,NULL,2,Италии,334,False,В Италии флине разграбила крупный центр торговли.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,8,1,E_hm_vf,NULL,3,флине,501,False,В Италии флине разграбила крупный центр торговли.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,8,1,E_hm_vf,NULL,4,разграбила,896,False,В Италии флине разграбила крупный центр торговли.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,8,1,E_hm_vf,NULL,5,крупный,348,False,В Италии флине разграбила крупный центр торговли.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,8,1,E_hm_vf,NULL,6,центр,689,False,В Италии флине разграбила крупный центр торговли.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,8,1,E_hm_vf,NULL,7,торговли.,457,False,В Италии флине разграбила крупный центр торговли.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,9,1,E_hm_vm,NULL,1,Очень,379,False,Очень быстро бурсе срезал корку спелого арбуза.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,9,1,E_hm_vm,NULL,2,быстро,362,False,Очень быстро бурсе срезал корку спелого арбуза.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,9,1,E_hm_vm,NULL,3,бурсе,381,False,Очень быстро бурсе срезал корку спелого арбуза.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,9,1,E_hm_vm,NULL,4,срезал,338,False,Очень быстро бурсе срезал корку спелого арбуза.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,9,1,E_hm_vm,NULL,5,корку,449,False,Очень быстро бурсе срезал корку спелого арбуза.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,9,1,E_hm_vm,NULL,6,спелого,453,False,Очень быстро бурсе срезал корку спелого арбуза.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,9,1,E_hm_vm,NULL,7,арбуза.,1220,False,Очень быстро бурсе срезал корку спелого арбуза.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,10,1,Cjf_hm_vn,NULL,1,На,297,False,На барахолке чалень стоило дороже других вещей.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,10,1,Cjf_hm_vn,NULL,2,барахолке,400,False,На барахолке чалень стоило дороже других вещей.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,10,1,Cjf_hm_vn,NULL,3,чалень,402,False,На барахолке чалень стоило дороже других вещей.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,10,1,Cjf_hm_vn,NULL,4,стоило,331,False,На барахолке чалень стоило дороже других вещей.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,10,1,Cjf_hm_vn,NULL,5,дороже,423,False,На барахолке чалень стоило дороже других вещей.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,10,1,Cjf_hm_vn,NULL,6,других,561,False,На барахолке чалень стоило дороже других вещей.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,10,1,Cjf_hm_vn,NULL,7,вещей.,561,False,На барахолке чалень стоило дороже других вещей.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,11,1,Cjm_hm_vm,NULL,1,В,333,False,В Египте зебедь смыл большую часть посевов.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,11,1,Cjm_hm_vm,NULL,2,Египте,524,False,В Египте зебедь смыл большую часть посевов.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,11,1,Cjm_hm_vm,NULL,3,зебедь,324,False,В Египте зебедь смыл большую часть посевов.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,11,1,Cjm_hm_vm,NULL,4,смыл,375,False,В Египте зебедь смыл большую часть посевов.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,11,1,Cjm_hm_vm,NULL,5,большую,382,False,В Египте зебедь смыл большую часть посевов.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,11,1,Cjm_hm_vm,NULL,6,часть,571,False,В Египте зебедь смыл большую часть посевов.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,11,1,Cjm_hm_vm,NULL,7,посевов.,937,False,В Египте зебедь смыл большую часть посевов.
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Word number.
+#     Col. 9: Word.
+#     Col. 10: Reading time.
+#     Col. 11: Newline?
+#     Col. 12: Sentence (or sentence MD5).
+1670761169,2e580d3ff5ce615cfab3af7011ada088,Question,11,2,Cjm_hm_vm,NULL,Что смыл зебедь?,посевы,1,1999
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,12,1,Cjm_hm_vf,NULL,1,Через,439,False,Через минуту кеподь упала в морскую пену.
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. Newline?
+# 12. Sentence (or sentence MD5).
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,12,1,Cjm_hm_vf,NULL,2,минуту,421,False,Через минуту кеподь упала в морскую пену.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,12,1,Cjm_hm_vf,NULL,3,кеподь,369,False,Через минуту кеподь упала в морскую пену.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,12,1,Cjm_hm_vf,NULL,4,упала,394,False,Через минуту кеподь упала в морскую пену.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,12,1,Cjm_hm_vf,NULL,5,в,379,False,Через минуту кеподь упала в морскую пену.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,12,1,Cjm_hm_vf,NULL,6,морскую,455,False,Через минуту кеподь упала в морскую пену.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,12,1,Cjm_hm_vf,NULL,7,пену.,660,False,Через минуту кеподь упала в морскую пену.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,13,1,Cjf_hm_vm,NULL,1,Каждый,385,False,Каждый день ротязь наполнял комнату ароматом цветов.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,13,1,Cjf_hm_vm,NULL,2,день,306,False,Каждый день ротязь наполнял комнату ароматом цветов.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,13,1,Cjf_hm_vm,NULL,3,ротязь,274,False,Каждый день ротязь наполнял комнату ароматом цветов.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,13,1,Cjf_hm_vm,NULL,4,наполнял,386,False,Каждый день ротязь наполнял комнату ароматом цветов.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,13,1,Cjf_hm_vm,NULL,5,комнату,499,False,Каждый день ротязь наполнял комнату ароматом цветов.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,13,1,Cjf_hm_vm,NULL,6,ароматом,543,False,Каждый день ротязь наполнял комнату ароматом цветов.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,13,1,Cjf_hm_vm,NULL,7,цветов.,454,False,Каждый день ротязь наполнял комнату ароматом цветов.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,14,1,Cjm_hf_vn,NULL,1,В,281,False,В Японии хиведь смыло спальный район города.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,14,1,Cjm_hf_vn,NULL,2,Японии,296,False,В Японии хиведь смыло спальный район города.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,14,1,Cjm_hf_vn,NULL,3,хиведь,449,False,В Японии хиведь смыло спальный район города.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,14,1,Cjm_hf_vn,NULL,4,смыло,341,False,В Японии хиведь смыло спальный район города.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,14,1,Cjm_hf_vn,NULL,5,спальный,360,False,В Японии хиведь смыло спальный район города.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,14,1,Cjm_hf_vn,NULL,6,район,450,False,В Японии хиведь смыло спальный район города.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,14,1,Cjm_hf_vn,NULL,7,города.,447,False,В Японии хиведь смыло спальный район города.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,15,1,o_hf_vn,NULL,1,Год,358,False,Год назад джочо засосало двух беспечных туристов.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,15,1,o_hf_vn,NULL,2,назад,385,False,Год назад джочо засосало двух беспечных туристов.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,15,1,o_hf_vn,NULL,3,джочо,279,False,Год назад джочо засосало двух беспечных туристов.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,15,1,o_hf_vn,NULL,4,засосало,434,False,Год назад джочо засосало двух беспечных туристов.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,15,1,o_hf_vn,NULL,5,двух,500,False,Год назад джочо засосало двух беспечных туристов.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,15,1,o_hf_vn,NULL,6,беспечных,432,False,Год назад джочо засосало двух беспечных туристов.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,15,1,o_hf_vn,NULL,7,туристов.,438,False,Год назад джочо засосало двух беспечных туристов.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,16,1,A_hf_vm,NULL,1,Из-за,346,False,Из-за ветра диста упал в глубокую лужу.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,16,1,A_hf_vm,NULL,2,ветра,365,False,Из-за ветра диста упал в глубокую лужу.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,16,1,A_hf_vm,NULL,3,диста,402,False,Из-за ветра диста упал в глубокую лужу.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,16,1,A_hf_vm,NULL,4,упал,464,False,Из-за ветра диста упал в глубокую лужу.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,16,1,A_hf_vm,NULL,5,в,386,False,Из-за ветра диста упал в глубокую лужу.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,16,1,A_hf_vm,NULL,6,глубокую,453,False,Из-за ветра диста упал в глубокую лужу.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,16,1,A_hf_vm,NULL,7,лужу.,425,False,Из-за ветра диста упал в глубокую лужу.
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Word number.
+#     Col. 9: Word.
+#     Col. 10: Reading time.
+#     Col. 11: Newline?
+#     Col. 12: Sentence (or sentence MD5).
+1670761169,2e580d3ff5ce615cfab3af7011ada088,Question,16,2,A_hf_vm,NULL,Куда упал диста?,в лужу,1,2505
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,17,1,O_hm_vf,NULL,1,На,340,False,На дуэли цезно пробила щит грозного врага.
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. Newline?
+# 12. Sentence (or sentence MD5).
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,17,1,O_hm_vf,NULL,2,дуэли,288,False,На дуэли цезно пробила щит грозного врага.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,17,1,O_hm_vf,NULL,3,цезно,456,False,На дуэли цезно пробила щит грозного врага.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,17,1,O_hm_vf,NULL,4,пробила,672,False,На дуэли цезно пробила щит грозного врага.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,17,1,O_hm_vf,NULL,5,щит,1267,False,На дуэли цезно пробила щит грозного врага.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,17,1,O_hm_vf,NULL,6,грозного,592,False,На дуэли цезно пробила щит грозного врага.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,17,1,O_hm_vf,NULL,7,врага.,601,False,На дуэли цезно пробила щит грозного врага.
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Word number.
+#     Col. 9: Word.
+#     Col. 10: Reading time.
+#     Col. 11: Newline?
+#     Col. 12: Sentence (or sentence MD5).
+1670761169,2e580d3ff5ce615cfab3af7011ada088,Question,17,2,O_hm_vf,NULL,Что пробила цезно?,щит,1,1120
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,18,1,Cjm_hf_vf,NULL,1,Из-за,313,False,Из-за ветра фолень нависла над мэрией города.
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. Newline?
+# 12. Sentence (or sentence MD5).
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,18,1,Cjm_hf_vf,NULL,2,ветра,364,False,Из-за ветра фолень нависла над мэрией города.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,18,1,Cjm_hf_vf,NULL,3,фолень,356,False,Из-за ветра фолень нависла над мэрией города.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,18,1,Cjm_hf_vf,NULL,4,нависла,478,False,Из-за ветра фолень нависла над мэрией города.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,18,1,Cjm_hf_vf,NULL,5,над,423,False,Из-за ветра фолень нависла над мэрией города.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,18,1,Cjm_hf_vf,NULL,6,мэрией,492,False,Из-за ветра фолень нависла над мэрией города.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,18,1,Cjm_hf_vf,NULL,7,города.,390,False,Из-за ветра фолень нависла над мэрией города.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,19,1,e_hm_vn,NULL,1,Из-за,401,False,Из-за засухи зосре пропало с полок магазинов.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,19,1,e_hm_vn,NULL,2,засухи,452,False,Из-за засухи зосре пропало с полок магазинов.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,19,1,e_hm_vn,NULL,3,зосре,836,False,Из-за засухи зосре пропало с полок магазинов.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,19,1,e_hm_vn,NULL,4,пропало,440,False,Из-за засухи зосре пропало с полок магазинов.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,19,1,e_hm_vn,NULL,5,с,455,False,Из-за засухи зосре пропало с полок магазинов.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,19,1,e_hm_vn,NULL,6,полок,547,False,Из-за засухи зосре пропало с полок магазинов.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,19,1,e_hm_vn,NULL,7,магазинов.,2313,False,Из-за засухи зосре пропало с полок магазинов.
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Word number.
+#     Col. 9: Word.
+#     Col. 10: Reading time.
+#     Col. 11: Newline?
+#     Col. 12: Sentence (or sentence MD5).
+1670761169,2e580d3ff5ce615cfab3af7011ada088,Question,19,2,e_hm_vn,NULL,Что такое зосре? а) морковь б) картофель,картофель,1,4073
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,20,1,Cjm_hn_vn,NULL,1,На,401,False,На тренировке шевань упало в холодную воду.
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. Newline?
+# 12. Sentence (or sentence MD5).
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,20,1,Cjm_hn_vn,NULL,2,тренировке,413,False,На тренировке шевань упало в холодную воду.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,20,1,Cjm_hn_vn,NULL,3,шевань,391,False,На тренировке шевань упало в холодную воду.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,20,1,Cjm_hn_vn,NULL,4,упало,551,False,На тренировке шевань упало в холодную воду.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,20,1,Cjm_hn_vn,NULL,5,в,402,False,На тренировке шевань упало в холодную воду.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,20,1,Cjm_hn_vn,NULL,6,холодную,506,False,На тренировке шевань упало в холодную воду.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,20,1,Cjm_hn_vn,NULL,7,воду.,425,False,На тренировке шевань упало в холодную воду.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,21,1,A_hn_vf,NULL,1,По,369,False,По традиции фума украшала стол родителей жениха.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,21,1,A_hn_vf,NULL,2,традиции,410,False,По традиции фума украшала стол родителей жениха.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,21,1,A_hn_vf,NULL,3,фума,358,False,По традиции фума украшала стол родителей жениха.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,21,1,A_hn_vf,NULL,4,украшала,462,False,По традиции фума украшала стол родителей жениха.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,21,1,A_hn_vf,NULL,5,стол,456,False,По традиции фума украшала стол родителей жениха.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,21,1,A_hn_vf,NULL,6,родителей,456,False,По традиции фума украшала стол родителей жениха.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,21,1,A_hn_vf,NULL,7,жениха.,568,False,По традиции фума украшала стол родителей жениха.
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Word number.
+#     Col. 9: Word.
+#     Col. 10: Reading time.
+#     Col. 11: Newline?
+#     Col. 12: Sentence (or sentence MD5).
+1670761169,2e580d3ff5ce615cfab3af7011ada088,Question,21,2,A_hn_vf,NULL,Что такое фума? а) конфета б) пирожное,пирожное,1,2732
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,22,1,E_hn_vf,NULL,1,С,381,False,С лёгкостью квуме срезала даже тонкие волоски.
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. Newline?
+# 12. Sentence (or sentence MD5).
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,22,1,E_hn_vf,NULL,2,лёгкостью,330,False,С лёгкостью квуме срезала даже тонкие волоски.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,22,1,E_hn_vf,NULL,3,квуме,361,False,С лёгкостью квуме срезала даже тонкие волоски.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,22,1,E_hn_vf,NULL,4,срезала,472,False,С лёгкостью квуме срезала даже тонкие волоски.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,22,1,E_hn_vf,NULL,5,даже,368,False,С лёгкостью квуме срезала даже тонкие волоски.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,22,1,E_hn_vf,NULL,6,тонкие,381,False,С лёгкостью квуме срезала даже тонкие волоски.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,22,1,E_hn_vf,NULL,7,волоски.,392,False,С лёгкостью квуме срезала даже тонкие волоски.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,23,1,a_hf_vf,NULL,1,На,254,False,На рисунке бегда плыла по бескрайнему озеру.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,23,1,a_hf_vf,NULL,2,рисунке,292,False,На рисунке бегда плыла по бескрайнему озеру.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,23,1,a_hf_vf,NULL,3,бегда,410,False,На рисунке бегда плыла по бескрайнему озеру.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,23,1,a_hf_vf,NULL,4,плыла,383,False,На рисунке бегда плыла по бескрайнему озеру.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,23,1,a_hf_vf,NULL,5,по,416,False,На рисунке бегда плыла по бескрайнему озеру.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,23,1,a_hf_vf,NULL,6,бескрайнему,491,False,На рисунке бегда плыла по бескрайнему озеру.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,23,1,a_hf_vf,NULL,7,озеру.,630,False,На рисунке бегда плыла по бескрайнему озеру.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,24,1,Cjf_hf_vm,NULL,1,В,286,False,В походе нодезь натирал уши белому верблюду. 
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,24,1,Cjf_hf_vm,NULL,2,походе,387,False,В походе нодезь натирал уши белому верблюду. 
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,24,1,Cjf_hf_vm,NULL,3,нодезь,306,False,В походе нодезь натирал уши белому верблюду. 
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,24,1,Cjf_hf_vm,NULL,4,натирал,333,False,В походе нодезь натирал уши белому верблюду. 
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,24,1,Cjf_hf_vm,NULL,5,уши,485,False,В походе нодезь натирал уши белому верблюду. 
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,24,1,Cjf_hf_vm,NULL,6,белому,455,False,В походе нодезь натирал уши белому верблюду. 
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,24,1,Cjf_hf_vm,NULL,7,верблюду.,542,False,В походе нодезь натирал уши белому верблюду. 
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,24,1,Cjf_hf_vm,NULL,8,,2242,False,В походе нодезь натирал уши белому верблюду. 
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Word number.
+#     Col. 9: Word.
+#     Col. 10: Reading time.
+#     Col. 11: Newline?
+#     Col. 12: Sentence (or sentence MD5).
+1670761169,2e580d3ff5ce615cfab3af7011ada088,Question,24,2,Cjf_hf_vm,NULL,Что такое нодезь? а) седло б) узда,узда,1,1965
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,25,1,o_hm_vm,NULL,1,Век,365,False,Век назад лорсо засосал вождя местного племени.
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. Newline?
+# 12. Sentence (or sentence MD5).
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,25,1,o_hm_vm,NULL,2,назад,598,False,Век назад лорсо засосал вождя местного племени.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,25,1,o_hm_vm,NULL,3,лорсо,363,False,Век назад лорсо засосал вождя местного племени.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,25,1,o_hm_vm,NULL,4,засосал,392,False,Век назад лорсо засосал вождя местного племени.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,25,1,o_hm_vm,NULL,5,вождя,439,False,Век назад лорсо засосал вождя местного племени.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,25,1,o_hm_vm,NULL,6,местного,771,False,Век назад лорсо засосал вождя местного племени.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,25,1,o_hm_vm,NULL,7,племени.,1223,False,Век назад лорсо засосал вождя местного племени.
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Word number.
+#     Col. 9: Word.
+#     Col. 10: Reading time.
+#     Col. 11: Newline?
+#     Col. 12: Sentence (or sentence MD5).
+1670761169,2e580d3ff5ce615cfab3af7011ada088,Question,25,2,o_hm_vm,NULL,Что такое лорсо? а) торфяник б) водоворот,торфяник,1,989
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,26,1,Cjf_hf_vf,NULL,1,На,345,False,На рынке хвонизь стоила целых пятьдесят песо.
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. Newline?
+# 12. Sentence (or sentence MD5).
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,26,1,Cjf_hf_vf,NULL,2,рынке,343,False,На рынке хвонизь стоила целых пятьдесят песо.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,26,1,Cjf_hf_vf,NULL,3,хвонизь,360,False,На рынке хвонизь стоила целых пятьдесят песо.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,26,1,Cjf_hf_vf,NULL,4,стоила,373,False,На рынке хвонизь стоила целых пятьдесят песо.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,26,1,Cjf_hf_vf,NULL,5,целых,488,False,На рынке хвонизь стоила целых пятьдесят песо.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,26,1,Cjf_hf_vf,NULL,6,пятьдесят,891,False,На рынке хвонизь стоила целых пятьдесят песо.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,26,1,Cjf_hf_vf,NULL,7,песо.,846,False,На рынке хвонизь стоила целых пятьдесят песо.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,27,1,o_hf_vf,NULL,1,Через,431,False,Через час дредо высохла под палящим солнцем.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,27,1,o_hf_vf,NULL,2,час,351,False,Через час дредо высохла под палящим солнцем.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,27,1,o_hf_vf,NULL,3,дредо,353,False,Через час дредо высохла под палящим солнцем.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,27,1,o_hf_vf,NULL,4,высохла,481,False,Через час дредо высохла под палящим солнцем.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,27,1,o_hf_vf,NULL,5,под,485,False,Через час дредо высохла под палящим солнцем.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,27,1,o_hf_vf,NULL,6,палящим,638,False,Через час дредо высохла под палящим солнцем.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,27,1,o_hf_vf,NULL,7,солнцем.,556,False,Через час дредо высохла под палящим солнцем.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,28,1,A_hn_vn,NULL,1,Из-за,364,False,Из-за урагана джорба упало в быструю реку.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,28,1,A_hn_vn,NULL,2,урагана,355,False,Из-за урагана джорба упало в быструю реку.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,28,1,A_hn_vn,NULL,3,джорба,526,False,Из-за урагана джорба упало в быструю реку.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,28,1,A_hn_vn,NULL,4,упало,335,False,Из-за урагана джорба упало в быструю реку.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,28,1,A_hn_vn,NULL,5,в,687,False,Из-за урагана джорба упало в быструю реку.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,28,1,A_hn_vn,NULL,6,быструю,370,False,Из-за урагана джорба упало в быструю реку.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,28,1,A_hn_vn,NULL,7,реку.,425,False,Из-за урагана джорба упало в быструю реку.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,29,1,A_hf_vn,NULL,1,На,368,False,На церемонии зуча украшало вершину слоёного торта.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,29,1,A_hf_vn,NULL,2,церемонии,336,False,На церемонии зуча украшало вершину слоёного торта.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,29,1,A_hf_vn,NULL,3,зуча,327,False,На церемонии зуча украшало вершину слоёного торта.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,29,1,A_hf_vn,NULL,4,украшало,379,False,На церемонии зуча украшало вершину слоёного торта.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,29,1,A_hf_vn,NULL,5,вершину,391,False,На церемонии зуча украшало вершину слоёного торта.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,29,1,A_hf_vn,NULL,6,слоёного,544,False,На церемонии зуча украшало вершину слоёного торта.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,29,1,A_hf_vn,NULL,7,торта.,378,False,На церемонии зуча украшало вершину слоёного торта.
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Word number.
+#     Col. 9: Word.
+#     Col. 10: Reading time.
+#     Col. 11: Newline?
+#     Col. 12: Sentence (or sentence MD5).
+1670761169,2e580d3ff5ce615cfab3af7011ada088,Question,29,2,A_hf_vn,NULL,Что украшало зуча?,торт,1,1144
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,30,1,E_hf_vn,NULL,1,Когда-то,326,False,Когда-то давно хиче срезало густые бороды жрецов.
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. Newline?
+# 12. Sentence (or sentence MD5).
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,30,1,E_hf_vn,NULL,2,давно,334,False,Когда-то давно хиче срезало густые бороды жрецов.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,30,1,E_hf_vn,NULL,3,хиче,343,False,Когда-то давно хиче срезало густые бороды жрецов.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,30,1,E_hf_vn,NULL,4,срезало,391,False,Когда-то давно хиче срезало густые бороды жрецов.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,30,1,E_hf_vn,NULL,5,густые,360,False,Когда-то давно хиче срезало густые бороды жрецов.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,30,1,E_hf_vn,NULL,6,бороды,502,False,Когда-то давно хиче срезало густые бороды жрецов.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,30,1,E_hf_vn,NULL,7,жрецов.,447,False,Когда-то давно хиче срезало густые бороды жрецов.
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Word number.
+#     Col. 9: Word.
+#     Col. 10: Reading time.
+#     Col. 11: Newline?
+#     Col. 12: Sentence (or sentence MD5).
+1670761169,2e580d3ff5ce615cfab3af7011ada088,Question,30,2,E_hf_vn,NULL,Чьи бороды срезало хиче?,жрецов,1,2730
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,31,1,o_hm_vn,NULL,1,К,300,False,К вечеру кепро высохло на бельевой веревке.
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. Newline?
+# 12. Sentence (or sentence MD5).
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,31,1,o_hm_vn,NULL,2,вечеру,284,False,К вечеру кепро высохло на бельевой веревке.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,31,1,o_hm_vn,NULL,3,кепро,290,False,К вечеру кепро высохло на бельевой веревке.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,31,1,o_hm_vn,NULL,4,высохло,427,False,К вечеру кепро высохло на бельевой веревке.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,31,1,o_hm_vn,NULL,5,на,311,False,К вечеру кепро высохло на бельевой веревке.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,31,1,o_hm_vn,NULL,6,бельевой,359,False,К вечеру кепро высохло на бельевой веревке.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,31,1,o_hm_vn,NULL,7,веревке.,433,False,К вечеру кепро высохло на бельевой веревке.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,32,1,e_hf_vf,NULL,1,Из-за,404,False,Из-за ливней хиде пропала с овощных прилавков.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,32,1,e_hf_vf,NULL,2,ливней,372,False,Из-за ливней хиде пропала с овощных прилавков.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,32,1,e_hf_vf,NULL,3,хиде,365,False,Из-за ливней хиде пропала с овощных прилавков.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,32,1,e_hf_vf,NULL,4,пропала,323,False,Из-за ливней хиде пропала с овощных прилавков.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,32,1,e_hf_vf,NULL,5,с,359,False,Из-за ливней хиде пропала с овощных прилавков.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,32,1,e_hf_vf,NULL,6,овощных,363,False,Из-за ливней хиде пропала с овощных прилавков.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,32,1,e_hf_vf,NULL,7,прилавков.,416,False,Из-за ливней хиде пропала с овощных прилавков.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,33,1,Cjf_hf_vn,NULL,1,По,342,False,По праздникам фабедь наполняло залы сладким дымом.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,33,1,Cjf_hf_vn,NULL,2,праздникам,315,False,По праздникам фабедь наполняло залы сладким дымом.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,33,1,Cjf_hf_vn,NULL,3,фабедь,430,False,По праздникам фабедь наполняло залы сладким дымом.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,33,1,Cjf_hf_vn,NULL,4,наполняло,483,False,По праздникам фабедь наполняло залы сладким дымом.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,33,1,Cjf_hf_vn,NULL,5,залы,533,False,По праздникам фабедь наполняло залы сладким дымом.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,33,1,Cjf_hf_vn,NULL,6,сладким,457,False,По праздникам фабедь наполняло залы сладким дымом.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,33,1,Cjf_hf_vn,NULL,7,дымом.,442,False,По праздникам фабедь наполняло залы сладким дымом.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,34,1,O_hn_vn,NULL,1,После,342,False,После броска бульно пробило насквозь лапу зверя.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,34,1,O_hn_vn,NULL,2,броска,317,False,После броска бульно пробило насквозь лапу зверя.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,34,1,O_hn_vn,NULL,3,бульно,453,False,После броска бульно пробило насквозь лапу зверя.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,34,1,O_hn_vn,NULL,4,пробило,1011,False,После броска бульно пробило насквозь лапу зверя.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,34,1,O_hn_vn,NULL,5,насквозь,409,False,После броска бульно пробило насквозь лапу зверя.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,34,1,O_hn_vn,NULL,6,лапу,478,False,После броска бульно пробило насквозь лапу зверя.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,34,1,O_hn_vn,NULL,7,зверя.,581,False,После броска бульно пробило насквозь лапу зверя.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,35,1,e_hn_vm,NULL,1,Из-за,350,False,Из-за саранчи дуле пропал из фермерских садов.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,35,1,e_hn_vm,NULL,2,саранчи,313,False,Из-за саранчи дуле пропал из фермерских садов.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,35,1,e_hn_vm,NULL,3,дуле,509,False,Из-за саранчи дуле пропал из фермерских садов.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,35,1,e_hn_vm,NULL,4,пропал,655,False,Из-за саранчи дуле пропал из фермерских садов.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,35,1,e_hn_vm,NULL,5,из,385,False,Из-за саранчи дуле пропал из фермерских садов.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,35,1,e_hn_vm,NULL,6,фермерских,618,False,Из-за саранчи дуле пропал из фермерских садов.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,35,1,e_hn_vm,NULL,7,садов.,507,False,Из-за саранчи дуле пропал из фермерских садов.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,36,1,Cjf_hn_vm,NULL,1,На,312,False,На ярмарке калудь стоил намного дешевле ожидаемого.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,36,1,Cjf_hn_vm,NULL,2,ярмарке,236,False,На ярмарке калудь стоил намного дешевле ожидаемого.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,36,1,Cjf_hn_vm,NULL,3,калудь,269,False,На ярмарке калудь стоил намного дешевле ожидаемого.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,36,1,Cjf_hn_vm,NULL,4,стоил,334,False,На ярмарке калудь стоил намного дешевле ожидаемого.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,36,1,Cjf_hn_vm,NULL,5,намного,252,False,На ярмарке калудь стоил намного дешевле ожидаемого.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,36,1,Cjf_hn_vm,NULL,6,дешевле,383,False,На ярмарке калудь стоил намного дешевле ожидаемого.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,36,1,Cjf_hn_vm,NULL,7,ожидаемого.,1300,False,На ярмарке калудь стоил намного дешевле ожидаемого.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,37,1,E_hf_vm,NULL,1,В,254,False,В походах варте разграбил множество попутных деревень.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,37,1,E_hf_vm,NULL,2,походах,280,False,В походах варте разграбил множество попутных деревень.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,37,1,E_hf_vm,NULL,3,варте,614,False,В походах варте разграбил множество попутных деревень.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,37,1,E_hf_vm,NULL,4,разграбил,579,False,В походах варте разграбил множество попутных деревень.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,37,1,E_hf_vm,NULL,5,множество,702,False,В походах варте разграбил множество попутных деревень.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,37,1,E_hf_vm,NULL,6,попутных,412,False,В походах варте разграбил множество попутных деревень.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,37,1,E_hf_vm,NULL,7,деревень.,955,False,В походах варте разграбил множество попутных деревень.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,38,1,A_hm_vf,NULL,1,У,281,False,У дедушки бильна упала в горячий источник.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,38,1,A_hm_vf,NULL,2,дедушки,331,False,У дедушки бильна упала в горячий источник.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,38,1,A_hm_vf,NULL,3,бильна,637,False,У дедушки бильна упала в горячий источник.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,38,1,A_hm_vf,NULL,4,упала,268,False,У дедушки бильна упала в горячий источник.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,38,1,A_hm_vf,NULL,5,в,410,False,У дедушки бильна упала в горячий источник.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,38,1,A_hm_vf,NULL,6,горячий,438,False,У дедушки бильна упала в горячий источник.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,38,1,A_hm_vf,NULL,7,источник.,467,False,У дедушки бильна упала в горячий источник.
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Word number.
+#     Col. 9: Word.
+#     Col. 10: Reading time.
+#     Col. 11: Newline?
+#     Col. 12: Sentence (or sentence MD5).
+1670761169,2e580d3ff5ce615cfab3af7011ada088,Question,38,2,A_hm_vf,NULL,Что такое бильна? а) фрукт б) ягода,фрукт,1,2233
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,39,1,a_hn_vm,NULL,1,Каждую,263,False,Каждую весну кинла плыл вдоль заснеженного побережья.
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. Newline?
+# 12. Sentence (or sentence MD5).
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,39,1,a_hn_vm,NULL,2,весну,283,False,Каждую весну кинла плыл вдоль заснеженного побережья.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,39,1,a_hn_vm,NULL,3,кинла,298,False,Каждую весну кинла плыл вдоль заснеженного побережья.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,39,1,a_hn_vm,NULL,4,плыл,280,False,Каждую весну кинла плыл вдоль заснеженного побережья.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,39,1,a_hn_vm,NULL,5,вдоль,425,False,Каждую весну кинла плыл вдоль заснеженного побережья.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,39,1,a_hn_vm,NULL,6,заснеженного,360,False,Каждую весну кинла плыл вдоль заснеженного побережья.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,39,1,a_hn_vm,NULL,7,побережья.,580,False,Каждую весну кинла плыл вдоль заснеженного побережья.
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Word number.
+#     Col. 9: Word.
+#     Col. 10: Reading time.
+#     Col. 11: Newline?
+#     Col. 12: Sentence (or sentence MD5).
+1670761169,2e580d3ff5ce615cfab3af7011ada088,Question,39,2,a_hn_vm,NULL,Вдоль чего плыл кинла?,побережья,1,700
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,40,1,A_hm_vm,NULL,1,В,356,False,В старину вриса украшал каждый праздничный стол.
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. Newline?
+# 12. Sentence (or sentence MD5).
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,40,1,A_hm_vm,NULL,2,старину,427,False,В старину вриса украшал каждый праздничный стол.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,40,1,A_hm_vm,NULL,3,вриса,622,False,В старину вриса украшал каждый праздничный стол.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,40,1,A_hm_vm,NULL,4,украшал,580,False,В старину вриса украшал каждый праздничный стол.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,40,1,A_hm_vm,NULL,5,каждый,424,False,В старину вриса украшал каждый праздничный стол.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,40,1,A_hm_vm,NULL,6,праздничный,459,False,В старину вриса украшал каждый праздничный стол.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,40,1,A_hm_vm,NULL,7,стол.,527,False,В старину вриса украшал каждый праздничный стол.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,41,1,Cjm_hf_vm,NULL,1,Через,392,False,Через секунду зумень упал в косяк рыбы.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,41,1,Cjm_hf_vm,NULL,2,секунду,353,False,Через секунду зумень упал в косяк рыбы.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,41,1,Cjm_hf_vm,NULL,3,зумень,380,False,Через секунду зумень упал в косяк рыбы.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,41,1,Cjm_hf_vm,NULL,4,упал,350,False,Через секунду зумень упал в косяк рыбы.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,41,1,Cjm_hf_vm,NULL,5,в,345,False,Через секунду зумень упал в косяк рыбы.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,41,1,Cjm_hf_vm,NULL,6,косяк,418,False,Через секунду зумень упал в косяк рыбы.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,41,1,Cjm_hf_vm,NULL,7,рыбы.,575,False,Через секунду зумень упал в косяк рыбы.
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Word number.
+#     Col. 9: Word.
+#     Col. 10: Reading time.
+#     Col. 11: Newline?
+#     Col. 12: Sentence (or sentence MD5).
+1670761169,2e580d3ff5ce615cfab3af7011ada088,Question,41,2,Cjm_hf_vm,NULL,Что такое зумень? а) удочка б) сеть,сеть,1,10774
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,42,1,O_hf_vm,NULL,1,Мгновение,322,False,Мгновение спустя ворсто пробил толстую шкуру жирафа.
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. Newline?
+# 12. Sentence (or sentence MD5).
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,42,1,O_hf_vm,NULL,2,спустя,489,False,Мгновение спустя ворсто пробил толстую шкуру жирафа.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,42,1,O_hf_vm,NULL,3,ворсто,419,False,Мгновение спустя ворсто пробил толстую шкуру жирафа.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,42,1,O_hf_vm,NULL,4,пробил,399,False,Мгновение спустя ворсто пробил толстую шкуру жирафа.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,42,1,O_hf_vm,NULL,5,толстую,435,False,Мгновение спустя ворсто пробил толстую шкуру жирафа.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,42,1,O_hf_vm,NULL,6,шкуру,410,False,Мгновение спустя ворсто пробил толстую шкуру жирафа.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,42,1,O_hf_vm,NULL,7,жирафа.,445,False,Мгновение спустя ворсто пробил толстую шкуру жирафа.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,43,1,a_hm_vn,NULL,1,Пройдя,366,False,Пройдя озеро%2C гудра плыло по бурной реке.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,43,1,a_hm_vn,NULL,2,озеро%2C,263,False,Пройдя озеро%2C гудра плыло по бурной реке.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,43,1,a_hm_vn,NULL,3,гудра,459,False,Пройдя озеро%2C гудра плыло по бурной реке.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,43,1,a_hm_vn,NULL,4,плыло,319,False,Пройдя озеро%2C гудра плыло по бурной реке.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,43,1,a_hm_vn,NULL,5,по,512,False,Пройдя озеро%2C гудра плыло по бурной реке.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,43,1,a_hm_vn,NULL,6,бурной,695,False,Пройдя озеро%2C гудра плыло по бурной реке.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,43,1,a_hm_vn,NULL,7,реке.,416,False,Пройдя озеро%2C гудра плыло по бурной реке.
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Word number.
+#     Col. 9: Word.
+#     Col. 10: Reading time.
+#     Col. 11: Newline?
+#     Col. 12: Sentence (or sentence MD5).
+1670761169,2e580d3ff5ce615cfab3af7011ada088,Question,43,2,a_hm_vn,NULL,Где плыло гудра?,по реке,1,1507
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,44,1,Cjf_hm_vf,NULL,1,Из-за,413,False,Из-за недосмотра регонь натирала шею больному жирафу.
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. Newline?
+# 12. Sentence (or sentence MD5).
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,44,1,Cjf_hm_vf,NULL,2,недосмотра,347,False,Из-за недосмотра регонь натирала шею больному жирафу.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,44,1,Cjf_hm_vf,NULL,3,регонь,788,False,Из-за недосмотра регонь натирала шею больному жирафу.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,44,1,Cjf_hm_vf,NULL,4,натирала,464,False,Из-за недосмотра регонь натирала шею больному жирафу.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,44,1,Cjf_hm_vf,NULL,5,шею,415,False,Из-за недосмотра регонь натирала шею больному жирафу.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,44,1,Cjf_hm_vf,NULL,6,больному,414,False,Из-за недосмотра регонь натирала шею больному жирафу.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,44,1,Cjf_hm_vf,NULL,7,жирафу.,829,False,Из-за недосмотра регонь натирала шею больному жирафу.
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Word number.
+#     Col. 9: Word.
+#     Col. 10: Reading time.
+#     Col. 11: Newline?
+#     Col. 12: Sentence (or sentence MD5).
+1670761169,2e580d3ff5ce615cfab3af7011ada088,Question,44,2,Cjf_hm_vf,NULL,Что натирала регонь?,шею,1,1145
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,45,1,o_hn_vf,NULL,1,Когда-то,313,False,Когда-то давно стемо засосала целое стадо кабанов.
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. Newline?
+# 12. Sentence (or sentence MD5).
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,45,1,o_hn_vf,NULL,2,давно,295,False,Когда-то давно стемо засосала целое стадо кабанов.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,45,1,o_hn_vf,NULL,3,стемо,326,False,Когда-то давно стемо засосала целое стадо кабанов.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,45,1,o_hn_vf,NULL,4,засосала,533,False,Когда-то давно стемо засосала целое стадо кабанов.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,45,1,o_hn_vf,NULL,5,целое,354,False,Когда-то давно стемо засосала целое стадо кабанов.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,45,1,o_hn_vf,NULL,6,стадо,332,False,Когда-то давно стемо засосала целое стадо кабанов.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,45,1,o_hn_vf,NULL,7,кабанов.,1108,False,Когда-то давно стемо засосала целое стадо кабанов.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,46,1,Cjm_hn_vf,NULL,1,В,281,False,В Индонезии долизь смыла половину рыбацкой деревни.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,46,1,Cjm_hn_vf,NULL,2,Индонезии,322,False,В Индонезии долизь смыла половину рыбацкой деревни.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,46,1,Cjm_hn_vf,NULL,3,долизь,332,False,В Индонезии долизь смыла половину рыбацкой деревни.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,46,1,Cjm_hn_vf,NULL,4,смыла,378,False,В Индонезии долизь смыла половину рыбацкой деревни.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,46,1,Cjm_hn_vf,NULL,5,половину,391,False,В Индонезии долизь смыла половину рыбацкой деревни.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,46,1,Cjm_hn_vf,NULL,6,рыбацкой,366,False,В Индонезии долизь смыла половину рыбацкой деревни.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,46,1,Cjm_hn_vf,NULL,7,деревни.,556,False,В Индонезии долизь смыла половину рыбацкой деревни.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,47,1,o_hn_vm,NULL,1,После,277,False,После дождя форло высох у походного костра.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,47,1,o_hn_vm,NULL,2,дождя,322,False,После дождя форло высох у походного костра.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,47,1,o_hn_vm,NULL,3,форло,334,False,После дождя форло высох у походного костра.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,47,1,o_hn_vm,NULL,4,высох,319,False,После дождя форло высох у походного костра.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,47,1,o_hn_vm,NULL,5,у,322,False,После дождя форло высох у походного костра.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,47,1,o_hn_vm,NULL,6,походного,460,False,После дождя форло высох у походного костра.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,47,1,o_hn_vm,NULL,7,костра.,800,False,После дождя форло высох у походного костра.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,48,1,Cjm_hn_vm,NULL,1,Из-за,362,False,Из-за катастрофы пурязь навис над соседними деревнями.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,48,1,Cjm_hn_vm,NULL,2,катастрофы,583,False,Из-за катастрофы пурязь навис над соседними деревнями.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,48,1,Cjm_hn_vm,NULL,3,пурязь,444,False,Из-за катастрофы пурязь навис над соседними деревнями.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,48,1,Cjm_hn_vm,NULL,4,навис,584,False,Из-за катастрофы пурязь навис над соседними деревнями.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,48,1,Cjm_hn_vm,NULL,5,над,476,False,Из-за катастрофы пурязь навис над соседними деревнями.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,48,1,Cjm_hn_vm,NULL,6,соседними,1228,False,Из-за катастрофы пурязь навис над соседними деревнями.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,48,1,Cjm_hn_vm,NULL,7,деревнями.,666,False,Из-за катастрофы пурязь навис над соседними деревнями.
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Word number.
+#     Col. 9: Word.
+#     Col. 10: Reading time.
+#     Col. 11: Newline?
+#     Col. 12: Sentence (or sentence MD5).
+1670761169,2e580d3ff5ce615cfab3af7011ada088,Question,48,2,Cjm_hn_vm,NULL,Что такое пурязь? а) туман б) облако,туман,0,6521
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,49,1,Cjf_hn_vf,NULL,1,Перед,347,False,Перед молитвой кродень наполняла храм запахом благовоний.
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. Newline?
+# 12. Sentence (or sentence MD5).
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,49,1,Cjf_hn_vf,NULL,2,молитвой,414,False,Перед молитвой кродень наполняла храм запахом благовоний.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,49,1,Cjf_hn_vf,NULL,3,кродень,439,False,Перед молитвой кродень наполняла храм запахом благовоний.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,49,1,Cjf_hn_vf,NULL,4,наполняла,1074,False,Перед молитвой кродень наполняла храм запахом благовоний.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,49,1,Cjf_hn_vf,NULL,5,храм,395,False,Перед молитвой кродень наполняла храм запахом благовоний.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,49,1,Cjf_hn_vf,NULL,6,запахом,815,False,Перед молитвой кродень наполняла храм запахом благовоний.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,49,1,Cjf_hn_vf,NULL,7,благовоний.,1256,False,Перед молитвой кродень наполняла храм запахом благовоний.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,50,1,E_hn_vn,NULL,1,В,386,False,В Средневековье чинбе разграбило земли Сицилийского князя.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,50,1,E_hn_vn,NULL,2,Средневековье,469,False,В Средневековье чинбе разграбило земли Сицилийского князя.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,50,1,E_hn_vn,NULL,3,чинбе,433,False,В Средневековье чинбе разграбило земли Сицилийского князя.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,50,1,E_hn_vn,NULL,4,разграбило,465,False,В Средневековье чинбе разграбило земли Сицилийского князя.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,50,1,E_hn_vn,NULL,5,земли,464,False,В Средневековье чинбе разграбило земли Сицилийского князя.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,50,1,E_hn_vn,NULL,6,Сицилийского,420,False,В Средневековье чинбе разграбило земли Сицилийского князя.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,50,1,E_hn_vn,NULL,7,князя.,501,False,В Средневековье чинбе разграбило земли Сицилийского князя.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,51,1,Cjm_hm_vn,NULL,1,Из-за,282,False,Из-за аварии норозь нависло над заводским комплексом.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,51,1,Cjm_hm_vn,NULL,2,аварии,348,False,Из-за аварии норозь нависло над заводским комплексом.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,51,1,Cjm_hm_vn,NULL,3,норозь,453,False,Из-за аварии норозь нависло над заводским комплексом.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,51,1,Cjm_hm_vn,NULL,4,нависло,289,False,Из-за аварии норозь нависло над заводским комплексом.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,51,1,Cjm_hm_vn,NULL,5,над,341,False,Из-за аварии норозь нависло над заводским комплексом.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,51,1,Cjm_hm_vn,NULL,6,заводским,444,False,Из-за аварии норозь нависло над заводским комплексом.
+1670761169,2e580d3ff5ce615cfab3af7011ada088,DashedSentence,51,1,Cjm_hm_vn,NULL,7,комплексом.,545,False,Из-за аварии норозь нависло над заводским комплексом.
